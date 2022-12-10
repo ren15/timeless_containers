@@ -44,6 +44,8 @@ Open and free building blocks
 
 - Convert any app that listens to `localhost:$PORT` to AWS Lambda and handle request by URL.
 
+- check if https://github.com/awslabs/aws-lambda-web-adapter works
+
 
 
 ## References
